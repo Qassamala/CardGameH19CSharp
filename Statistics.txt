@@ -1,2 +1,0 @@
-Player name: abdi, Total wins: 4, Total losses: 3.
-Player name: coder, Total wins: 3, Total losses: 2.
